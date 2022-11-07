@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Hi,%20precious🥰&fontSize=80&fontAlignY=40&desc=I'm%20NaGyeong&descSize=30&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Welcome%20🥰&fontSize=80&fontAlignY=40&desc=I'm%20NaGyeong&descSize=30&descAlignY=60)
 
 <h3 align="center">✔ Languages ➰</h3>
 <div align="center">
