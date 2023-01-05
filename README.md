@@ -10,7 +10,7 @@
 
 <h3 align="center">✔ My place</h3>
 <p align="center">
-    <a href="https://nagyeongpark.notion.site/FrontEnd-Developer-4ef9519b9a5a42b4a5976162a99a4e24"><img src="https://img.shields.io/badge/Résumé-018EF5?style=for-the-badge&logo=ReadMe&logoColor=white&link=https://nagyeongpark.notion.site/FrontEnd-Developer-4ef9519b9a5a42b4a5976162a99a4e24"/></a>
+    <a href="https://bit.ly/PNG-GitHub-Resume"><img src="https://img.shields.io/badge/Résumé-018EF5?style=for-the-badge&logo=ReadMe&logoColor=white&link=https://nagyeongpark.notion.site/FrontEnd-Developer-4ef9519b9a5a42b4a5976162a99a4e24"/></a>
     <a href="mailto:ngp.july@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ngp.july@gmail.com"/></a>
 <a href="https://velog.io/@wksmstkfka12" align="center">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>&nbsp
